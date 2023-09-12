@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033598528043",
+    "project_id": "parts-finder-data",
+    "storage_bucket": "parts-finder-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033598528043:android:6faaaf97a7ef152239186e",
+        "android_client_info": {
+          "package_name": "com.example.partsfinder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033598528043-ucs3i8pjmmpmqmlr6288sqrccq3rbsu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJ5wzP_Ha3ysvr8_eERhzr-QV1A3Y0jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033598528043-ucs3i8pjmmpmqmlr6288sqrccq3rbsu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
